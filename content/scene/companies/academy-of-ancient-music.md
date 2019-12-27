@@ -1,5 +1,6 @@
 +++
 date = "2016-12-10T13:29:00+00:00"
+draft = true
 lastmod = "2016-12-10T13:29:00+00:00"
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1481376455997/Logo---AAM.jpg.jpg"
 publishDate = "2016-12-10T13:29:00+00:00"
@@ -19,8 +20,8 @@ url = "https://twitter.com/AAMorchestra"
 platform = "Youtube"
 template = "social-media"
 url = "https://www.youtube.com/user/acadofancientmusic"
-+++
 
++++
 That's exactly what we aim to do: energise baroque and classical music. And to do it, we get back to the style and spirit in which this music was first performed.
 
 Our performances explore the soundworlds which inspired Bach, Handel and Haydn. We revel in the expressive power of old instruments — flutes made out of wood, trumpets without valves, strings woven from gut. The size of the orchestra is tailored to the unique character of each piece, and each one of our musicians (“the superstars of the period-instrument world”, as they were recently described) takes a key part in the music-making. Historical knowledge inspires new musical possibilities; artistic creativity makes these possibilities come alive. This golden combination guides everything we do.
