@@ -308,7 +308,7 @@ a:hover {
   animations
     slideNavIn
 		slideNavOut
-		
+
 */
 /* -----------------------------------------------------
     slideNavIn
@@ -672,7 +672,7 @@ h2 + .gallery {
     bottom: 0;
     left: 0;
     position: absolute;
-    background: url(/static/images/logo-square.svg);
+    background: url(/static/images/LogoFinal-border.svg);
     background-size: 100% auto;
   }
   .site-branding:after {
