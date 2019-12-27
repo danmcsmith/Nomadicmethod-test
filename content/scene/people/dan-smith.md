@@ -1,6 +1,5 @@
 +++
 discipline = "Travel Writer"
-draft = true
 primary_image = ""
 primary_image_credit = ""
 related_companies = []
