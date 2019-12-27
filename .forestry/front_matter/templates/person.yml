@@ -39,3 +39,5 @@ fields:
     source:
       type: pages
       section: companies
+pages:
+- content/scene/people/dan-smith.md
