@@ -1,7 +1,8 @@
 ---
-title: "Contribute to Schmopera"
----
+title: Contribute to Schmopera
+draft: true
 
+---
 ## We need you.
 No, seriously, there's a ton of opera-related news, events, and gatherings happening and we cannot be in all places at once. Schmopera is an excellent platform to give some of the younger minds (and seasoned, too) an opportunity to speak up, voice their opinions, and contribute to this community.
 
