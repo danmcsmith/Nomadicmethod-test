@@ -1,6 +1,6 @@
-baseURL = "https://www.schmopera.com"
+baseURL = "https://www.nomadicmethod.com"
 languageCode = "en-us"
-title = "Schmopera"
+title = "Nomadic Method"
 theme = "schmopera"
 
 [taxonomies]
