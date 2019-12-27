@@ -1,7 +1,8 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Editorial"
-date = "2015-05-29T14:08:00-04:00"
+date = 2015-05-29T18:08:00Z
+draft = true
 lastmod = "2015-05-30T20:03:00-04:00"
 preamble = "With the scary news that [Joni Mitchell is currently recovering from a brain aneurysm](http://www.nydailynews.com/entertainment/gossip/joni-mitchell-suffered-brain-aneurysm-recovering-report-article-1.2240159), I went on a mini rediscovery of her music. No one doubts that Joni is one of the best songwriters of the 20th century, and I think the way she delivers her songs is a universal lesson in storytelling. Here are a few things that singers, operatic or otherwise, can learn from Joni."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1432926924387/Joni-Mitchell.jpg.jpg"
@@ -10,8 +11,8 @@ publishDate = "2015-05-30T12:08:00-04:00"
 short_description = "With the scary news that Joni Mitchell is currently recovering from a brain aneurysm, I went on a mini rediscovery of her music. No one doubts that Joni is one of the best songwriters of the 20th century, and I think the way she delivers her songs is a universal lesson in storytelling. Here are a few things that singers, operatic or otherwise, can learn from Joni."
 slug = "3-things-to-learn-from-joni"
 title = "3 things to learn from Joni"
-+++
 
++++
 ### The song is enough, if it's true
 
 Singers all strive for simplicity, and I think it's so hard to achieve because it requires trust in what they're singing. If the song/aria/scene is well-written, and you have something to say with the text, that really is enough for your listeners. I like how Joni starts ["California,"](https://www.youtube.com/watch?v=-q4foLKDlcE) chattering on about the cold weather and depressing news stories. Because she doesn't affect these words, she lets us soak in the story. Watch:
