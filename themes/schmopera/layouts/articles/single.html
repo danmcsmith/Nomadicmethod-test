@@ -3,7 +3,7 @@
   {# ------------------------------------------------------- #}
   {# INDIVIDUAL VIEW FOR EACH ARTICLE                        #}
   {# ------------------------------------------------------- #}
-    
+
 */}}
 
 {{/* meta data */}}
@@ -51,7 +51,7 @@
       "name": "Schmopera",
       "logo": {
         "@type": "ImageObject",
-        "url": "http://www.schmopera.com/static/images/logo.png",
+        "url": "http://www.schmopera.com/static/images/LogoFinal-border.png",
         "width": 800,
         "height": 800
       }
@@ -81,7 +81,7 @@
     </section>
 
 
-  {{- /* Authors */}}  
+  {{- /* Authors */}}
     <section class="post--single_authors">
   {{- with .Params.author }}
     {{- range $author := . }}
@@ -98,7 +98,7 @@
     {{- end }}
   {{- end }}
       <span class="post--meta-date">{{ .Date.Format "Jan 2, 2006" }}</span>
-    </section>    
+    </section>
 
   {{- /* Disclaimer */}}
   {{ if .Params.disclaimer -}}
@@ -152,7 +152,7 @@
           return 'error';
         }
       }
-      
+
       var player = document.getElementById('youtube_player');
 
       player.innerHTML = '<iframe width="560" height="315" src="//www.youtube.com/embed/' + myId + '" frameborder="0" allowfullscreen></iframe>';
@@ -163,7 +163,7 @@
 
     TODO:
     Gallery
-    
+
     {% if item.gallery|size !== 0 %}
     <section class="post--single_gallery">
       <h2 class="pill">Gallery</h2>
@@ -186,7 +186,7 @@
     {% endif %}
   */ -}}
 
-  
+
   {{- /* Social Shares */}}
     <section class="post--single_social">
       <nav class="nav--share">
@@ -213,15 +213,15 @@
     </nav>
 
 
-  {{- /* Adspot 1 
+  {{- /* Adspot 1
     <section class="post--single_adspot">
       {{- partial "ad-spot1.html" . -}}
     </section>
   */ -}}
 
 
-  {{- /* 
-    
+  {{- /*
+
     TODO:
     Author details
 
@@ -283,7 +283,7 @@
 
   {{- if (or (.Params.related_people) (.Params.related_companies)) }}
     <section class="post--single_scene">
-      <h2 class="pill">Mentions</h2> 
+      <h2 class="pill">Mentions</h2>
       <nav>
         <ul>
       {{- with .Params.related_people -}}

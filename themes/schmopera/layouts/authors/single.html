@@ -3,7 +3,7 @@
   {# ------------------------------------------------------- #}
   {# INDIVIDUAL VIEW FOR EACH PERSON                         #}
   {# ------------------------------------------------------- #}
-  
+
 */}}
 
 {{/* meta data */}}
@@ -48,7 +48,7 @@
       "name": "Schmopera",
       "logo": {
         "@type": "ImageObject",
-        "url": "http://www.schmopera.com/static/images/logo.png",
+        "url": "http://www.schmopera.com/static/images/LogoFinal-border.png",
         "width": 800,
         "height": 800
       }
@@ -73,7 +73,7 @@
             {{- $imgsm := replace .Params.primary_image "/upload/" "/upload/w_300,h_300,c_fill,g_face/" -}}
             {{- $imglg := replace .Params.primary_image "/upload/" "/upload/w_600,h_600,c_fill,g_face/" }}
             <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkkAQAAB8AG7jymN8AAAAASUVORK5CYII=" data-srcset="{{ $imgsm }} 1x, {{ $imglg }} 2x" alt="{{ .Title | htmlUnescape }}" media="(min-width: 40em)" class="lazyload">
-          </picture>      
+          </picture>
 
           {{- with .Params.primary_image_credit }}
           <figcaption>{{ . }}</figcaption>
@@ -81,7 +81,7 @@
         </figure>
       </a>
 
-      <div class="single--scene_meta">  
+      <div class="single--scene_meta">
         {{ if .Params.social_media }}
         <nav class="nav--share">
         {{ if .Params.website }}
@@ -98,7 +98,7 @@
     <section class="scene--single_bio">
       {{ .Content }}
     </section>
-    
+
     <nav class="scene--single_articles">
       <h1 class="pill">Latest articles</h1>
 
