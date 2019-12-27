@@ -1,18 +1,19 @@
 +++
 author = ["authors/jenna.md"]
 categories = "Humour"
-date = "2016-03-23T16:06:00+00:00"
+date = 2016-03-23T16:06:00Z
+draft = true
 lastmod = "2016-03-31T15:27:00+01:00"
 preamble = "One of the first hurdles a young musician meets as he or she pursues advanced training is the fact that there are never enough practice rooms.\n\nMusic students and graduates, how many hours do you think you've spend sitting in practice room hallways, thumbing through your scores, eagerly looking up as a door opens, hoping to **God** that it's someone leaving, and not just going for a pee/water break?\n\nRemember that poster/meme that was popping up for a while, something about \"everything I need to know in life, I learned in kindergarten\"? The game of finding a practice room is sort of like that."
 primary_image = "https://res.cloudinary.com/schmopera/image/upload/v1545409169/media/webhook-uploads/1459424691439/2016-03-31---Bad-Piano.jpg.jpg"
 publishDate = "2016-03-31T15:27:00+01:00"
-related_articles = ["articles/undergrad-degrees-why-youll-use-that-theory-class-after-all.md","articles/5-tips-for-university-auditionees.md","articles/how-to-play-for-singers.md","articles/teaching-in-the-arctic-5-things-that-one-singer-learned.md"]
-related_companies = ["scene/companies/university-of-toronto-opera.md","scene/companies/opera-mcgill.md"]
+related_articles = ["articles/undergrad-degrees-why-youll-use-that-theory-class-after-all.md", "articles/5-tips-for-university-auditionees.md", "articles/how-to-play-for-singers.md", "articles/teaching-in-the-arctic-5-things-that-one-singer-learned.md"]
+related_companies = ["scene/companies/university-of-toronto-opera.md", "scene/companies/opera-mcgill.md"]
 short_description = "Music students and graduates, how many hours do you think you&#039;ve spend sitting in practice room hallways, thumbing through your scores, eagerly looking up as a door opens, hoping to God that it&#039;s someone leaving, and not just going for a pee/water break. Remember that poster/meme that was popping up for a while, something about &quot;everything I need to know in life, I learned in kindergarten&quot;? The game of finding a practice room is sort of like that."
 slug = "3-life-lessons-that-practice-rooms-can-teach-you"
 title = "3 life lessons that practice rooms can teach you"
-+++
 
++++
 ## The Golden Rule
 
 "Do unto other as you would have them to unto you", right? In the world of practice rooms, this usually means, "don't leave your stuff in a room and then walk away for more than 10 minutes". There's a funny thing that happens, where more senior students decide that they've a) paid their dues waiting for rooms, and/or b) their work is more important than those of first- or second-year students. It's an understandable thing, to take for oneself an unofficial reward for time spent in an academic environment. 
